@@ -1,0 +1,2 @@
+Student: "My computer ate my data, it's trying to get me in trouble."
+CS Instructor: "Don't anthropomorphize computers, they don't like it."
